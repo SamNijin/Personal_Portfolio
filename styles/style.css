@@ -416,7 +416,7 @@ body {
 }
 
 /* Mobile */
-@media (max-width: 300px) {
+@media (max-width: 360px) {
     .brief .left div p.role {
         font-size: .8rem;
     }
