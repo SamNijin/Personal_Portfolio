@@ -313,7 +313,7 @@ body {
 
 .brief .left div p.role {
     margin-bottom: 23px;
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     font-weight: 900;
 
     /* Animation */
@@ -416,10 +416,15 @@ body {
 }
 
 /* Mobile */
+@media (max-width: 300px) {
+    .brief .left div p.role {
+        font-size: .8rem;
+    }
+}
 
 @media (max-width: 768px) {
     .brief {
-        height: 100vh;
+        height: fit-content;
         flex-direction: column-reverse;
         justify-content: center;
         align-items: center;
@@ -439,7 +444,7 @@ body {
     }
 
     .brief .left div p span {
-        font-size: 4.7rem;
+        font-size: 3.6rem;
         color: var(--primary-color);
     }
 
