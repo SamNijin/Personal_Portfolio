@@ -1,4 +1,4 @@
-![banner](https://github.com/SamNijin/SamNijin/blob/main/Sam-github%20banner.png)
+![banner](https://github.com/SamNijin/SamNijin/blob/main/Sam-github-banner.png)
 
 <h1 align="center">Hey there 👋, I am Sam Nijin S</h1>
 <h3 align="center">Data Analytics | Artificial Intelligence Research Intern @Zetpeak </h3>
